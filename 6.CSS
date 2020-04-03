@@ -1,0 +1,41 @@
+.name{
+     border-style: none;
+    text-align: start;
+}
+.back{
+    background-color: rgb(157, 160, 159);
+
+}
+.white{
+    background-color: white;
+}
+.g{
+    background-color:  rgb(238, 231, 231);
+}
+.j{
+    text-align: unset;
+}
+.divScroll1 {
+    overflow:scroll;
+    height:2700px;
+ }
+.divScroll2 {
+        overflow:scroll;
+        height:1500px;
+ }
+.divScroll {
+        overflow:scroll;
+        height:500px;
+    }
+.HTML{
+    color: rgb(255, 116, 2);
+}
+.navbar {
+    overflow: auto;
+    background-color: rgb(255, 102, 0);
+  }
+.gakvetilebi{
+text-align: center;
+color: rgb(255, 116, 2);
+}
+
